@@ -1,0 +1,11 @@
+# Global owners
+*       @cloudtitlan/team-admins
+
+# dplus team
+apps/dplus/ @cloudtitlan/team-a
+
+# family team
+apps/family/ @cloudtitlan/team-b
+
+# magnolia team
+apps/magnolia/ @cloudtitlan/team-c
