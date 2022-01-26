@@ -1,11 +1,17 @@
 # Global owners
 *       @cloudtitlan/team-admins
 
-# dplus team
-apps/dplus/ @cloudtitlan/team-a
+#################################### Generated content - do not edit! ####################################
+# This block has been generated with codeowners-generator (for more information https://github.com/gagoar/codeowners-generator)
+# Don't worry, the content outside this block will be kept.
 
-# family team
-apps/family/ @cloudtitlan/team-b
+# Rule extracted from apps/dplus/CODEOWNERS
+/apps/dplus/**/* @cloudtitlan/team-a
+# Rule extracted from apps/family/CODEOWNERS
+/apps/family/**/* @cloudtitlan/team-b
+# Rule extracted from apps/magnolia/CODEOWNERS
+/apps/magnolia/**/* @cloudtitlan/team-c
+# Rule extracted from apps/dplus/lib/CODEOWNERS
+/apps/dplus/lib/**/* @eloyvega
 
-# magnolia team
-apps/magnolia/ @cloudtitlan/team-c
+#################################### Generated content - do not edit! ####################################
